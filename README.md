@@ -10,3 +10,4 @@ semantics : deals if well formed string has meaning
 tokens : single smalllest element of programming language
 keyword : Reserve word having a meaning
 Identefiers : name given to a function, variable, object,class or module
+And rules to write a Identefier
